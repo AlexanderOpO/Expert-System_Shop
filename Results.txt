@@ -1,0 +1,30 @@
+Company Name: Lets TV have position: 6| Points: 1.33333333333333| Phone: 655-35-36| Cable_type: coaxial_cable
+| Price: low| Quality: SD
+| Services: landline_phone TV
+Amount: 14
+__________________________________________________________________
+Company Name: Teleshop have position: 5| Points: 1.43333333333333| Phone: 557-35-15| Cable_type: coaxial_cable
+| Price: low| Quality: SD
+| Services: internet TV
+Amount: 15
+__________________________________________________________________
+Company Name: AreaProt have position: 2| Points: 3.3| Phone: 111-35-30| Cable_type: optical_cable
+| Price: medium| Quality: HD
+| Services: internet landline_phone TV
+Amount: 25
+__________________________________________________________________
+Company Name: Sky have position: 4| Points: 2.83333333333333| Phone: 155-33-35| Cable_type: optical_cable
+| Price: high| Quality: FullHD
+| Services: internet TV
+Amount: 107
+__________________________________________________________________
+Company Name: CompanyZ have position: 3| Points: 3.2| Phone: 505-35-30| Cable_type: coaxial_cable
+| Price: medium| Quality: SD
+| Services: internet landline_phone TV
+Amount: 30
+__________________________________________________________________
+Company Name: DomRU have position: 1| Points: 4.0| Phone: 525-31-35| Cable_type: optical_cable
+| Price: high| Quality: HD
+| Services: internet landline_phone TV
+Amount: 70
+__________________________________________________________________
